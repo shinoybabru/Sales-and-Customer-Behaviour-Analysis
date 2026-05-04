@@ -1,10 +1,12 @@
-**# Sales and Customer Behaviour Analysis** 
+# Sales and Customer Behaviour Analysis 
 
 This project focuses on analyzing retail sales data to uncover actionable insights about customer behavior, sales trends, and business performance using SQL.
 
 The dataset consists of 1000+ transactions across three branches (A, B, C) located in Yangon, Mandalay, and Naypyitaw. It includes information such as product lines, customer types, payment methods, timestamps, and revenue-related fields.
 
-#**🔧 Key Steps Performed**
+
+**#🔧 Key Steps Performed**
+
 Data Wrangling
 Created and structured SQL database and tables
 Cleaned and handled missing values
